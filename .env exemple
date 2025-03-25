@@ -1,0 +1,4 @@
+PORT=5001
+JWT_SECRET= your_jwt_token
+DATABASE_URL=database_link
+AZURE_STORAGE_CONNECTION_STRING=Azure_storage_connection_link
